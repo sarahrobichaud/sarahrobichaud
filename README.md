@@ -3,8 +3,8 @@
 I'm a Full stack web developer.
 
 - 🌍 I'm based in Canada
-- 🧠  I'm currently learning **PHP**.
-- ⚡  Driven to keep learning new things everything
+- 🧠  I'm currently learning **PHP**
+- ⚡  Driven to learn new things everyday
 
 I'm currently working on [ngsvirtual.com ✈️](http://ngsvirtual.com)
 
