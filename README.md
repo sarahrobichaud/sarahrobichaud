@@ -1,20 +1,14 @@
-# Hi, nice to meet you! 👋
+# Hi! 👋
 
-## Full stack web developper
-
-I started my learning journey about 3 years ago.
+I'm a Full stack web developer.
 
 - 🌍 I'm based in Canada
 - 🧠  I'm currently learning **PHP**.
 - ⚡  Driven to keep learning new things everything
 
----
+I'm currently working on [ngsvirtual.com ✈️](http://ngsvirtual.com)
 
-### I'm currently working on [ngsvirtual.com ✈️](http://ngsvirtual.com)
-
----
-
-### You can reach out at [robichaudsarah@outlook.com ✉️](mailto:robichaudsarah@outlook.com)
+You can contact me at [robichaudsarah@outlook.com ✉️](mailto:robichaudsarah@outlook.com)
 
 ---
 
@@ -41,7 +35,7 @@ I started my learning journey about 3 years ago.
 </a>
 </p>
 
----
+### Skills
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-dark.svg" width="36" height="36" alt="TypeScript" /></a>
