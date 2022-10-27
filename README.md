@@ -3,10 +3,8 @@
 I'm a Full stack web developer.
 
 - 🌍 I'm based in Canada
-- 🧠  I'm currently learning **PHP** and [Remix 💿](http://remix.run)
+- 🧠  I'm currently learning [Remix 💿](http://remix.run)
 - ⚡  Driven to learn new things everyday
-
-I'm currently working on [ngsvirtual.com ✈️](http://ngsvirtual.com)
 
 You can contact me at [robichaudsarah@outlook.com ✉️](mailto:robichaudsarah@outlook.com)
 
