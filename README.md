@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm a Full stack web developer.
+I do full stack web development
 
 - 🌍 I'm based in Canada
 - 🧠  I'm currently learning [Remix 💿](http://remix.run)
