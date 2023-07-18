@@ -3,7 +3,6 @@
 I do full stack web development
 
 - 🌍 I'm based in Canada
-- 🧠  I'm currently learning [Remix 💿](http://remix.run)
 - ⚡  Driven to learn new things everyday
 
 You can contact me at [robichaudsarah@outlook.com ✉️](mailto:robichaudsarah@outlook.com)
@@ -41,9 +40,7 @@ You can contact me at [robichaudsarah@outlook.com ✉️](mailto:robichaudsarah@
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-dark.svg" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-dark.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-dark.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="./logo/tex.svg" height="36" alt="LaTeX" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-dark.svg" width="36" height="36" alt="React" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-dark.svg" width="36" height="36" alt="dark" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-dark.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://parceljs.org/" target="_blank" rel="noreferrer"><img src="./logo/parcel.svg" width="36" height="36" alt="Parcel bundler" /></a>
 <a href="https://postcss.org/" target="_blank" rel="noreferrer"><img src="./logo/postcss.svg" width="36" height="36" alt="PostCSS" /></a>
@@ -52,10 +49,6 @@ You can contact me at [robichaudsarah@outlook.com ✉️](mailto:robichaudsarah@
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-dark.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-dark.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-dark.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-dark.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-dark.svg" width="36" height="36" alt="Figma" /></a>
 
 </p>
