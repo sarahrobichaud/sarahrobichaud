@@ -8,10 +8,4 @@
 - 💖 TypeScript 
 - 💖 C#
 
-## Current Passion Projects ✨
-- Maintenance for [NGS Virtual VA](https://flyngsvirtual.com) (PHP)
-
-
-
-
 
