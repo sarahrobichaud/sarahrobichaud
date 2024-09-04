@@ -9,4 +9,4 @@
 - 💖 C#
 
 ---
-- Maintaining [NGS Virtual VA](https://flyngsvirtual.com).
+- 🔧 Maintaining [NGS Virtual VA](https://flyngsvirtual.com).
