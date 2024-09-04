@@ -7,6 +7,7 @@
 ## I love working with
 - 💖 TypeScript 
 - 💖 C#
+- 💖 Node
 
 ---
 - 🔧 Maintaining [NGS Virtual VA](https://flyngsvirtual.com).
