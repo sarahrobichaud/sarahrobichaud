@@ -5,9 +5,11 @@
 - ⚡ Always eager to learn how things work and improve my skills.
 
 ## I love working with
-- 💖 TypeScript 
-- 💖 C#
+- 💖 Windows - Linux 
+- 💖 TypeScript - C#
 - 💖 Node
 
----
-- 🔧 Maintaining [NGS Virtual VA](https://flyngsvirtual.com).
+## Passion project
+- 🚧 **Gullview** A lightbox library for the web.
+- 🚧 **Dockview** A way to present projects in style. 
+- 🔧 **Maintaining [NGS Virtual VA](https://flyngsvirtual.com)** A virtual airline's website.
