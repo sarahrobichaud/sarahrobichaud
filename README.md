@@ -11,5 +11,5 @@
 
 ## Passion project
 - 🚧 **Gullview** A lightbox library for the web.
-- 🚧 **Dockview** A way to present projects in style. 
+- 🚧 **Dockview** A way to demo projects. 
 - 🔧 **Maintaining [NGS Virtual VA](https://flyngsvirtual.com)** A virtual airline's website.
