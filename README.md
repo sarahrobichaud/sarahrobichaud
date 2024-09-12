@@ -6,8 +6,7 @@
 
 ## I love working with
 - 💖 Windows - Linux 
-- 💖 TypeScript - C#
-- 💖 Node
+- 💖 TypeScript - C# - Java
 
 ## Passion project
 - 🚧 **Gullview** A lightbox library for the web.
