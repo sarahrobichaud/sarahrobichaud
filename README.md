@@ -5,4 +5,4 @@
 - 💖 Windows - Linux 
 - 💖 TypeScript - C# - Java
 ## Passion Projects
-- ✈️ Maintainer of [flyngsvirtual.com](https://flyngsvirtual.com)
+- ✈️ Maintaining [flyngsvirtual.com](https://flyngsvirtual.com)
