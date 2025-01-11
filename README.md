@@ -4,5 +4,4 @@
 ## I love working with
 - 💖 Windows - Linux 
 - 💖 TypeScript - C# - Java
-## Passion Projects
-- ✈️ Maintaining [flyngsvirtual.com](https://flyngsvirtual.com)
+
