@@ -1,8 +1,7 @@
 # Hi!👋🏼 I'm Sarah
 - 📚 Studying software development.
 - ⚡ Always eager to learn how things work and improve my skills.
-- 😻 I love cats
-- 🏁 Flight and Racing Sim Enthusiast 🛫
+- 💗 Loves cats and racing/flight sim
 ---
 
 ### Currently working on
