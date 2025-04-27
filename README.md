@@ -5,12 +5,10 @@
 ---
 
 ### Currently working on
-
-- Real-time trivia app (node/express/vue)
-- Restaurant reservation management web app (java/springboot)
-- My portfolio (node/express/react-router)
-  
+- Final college project 
+- My portfolio
 --- 
+
 Powered by ☕ and a ❤️‍🔥 for software engineering
 
 
