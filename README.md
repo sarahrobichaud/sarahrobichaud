@@ -6,7 +6,7 @@
 
 ### Currently working on
 - Final college project 
-- My portfolio
+- My portfolio (not much time at the moment 🙃)
 --- 
 
 Powered by ☕ and a ❤️‍🔥 for software engineering
